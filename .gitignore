@@ -1,0 +1,8 @@
+# Ignoruj katalog node_modules
+/node_modules/
+
+# Ignoruj pliki tymczasowe systemu macOS
+.DS_Store
+
+# Ignoruj pliki logów
+*.log
